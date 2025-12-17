@@ -1,6 +1,6 @@
 ## My personal portfolio webpage
 
-## This my personal portfolio is a webpage that talk about me and my work, you can just get intouch or contack me.
+## This my personal portfolio is a webpage that talk about me and my work, you can just get intouch or contact me.
 
 ## To contact me go to the last part of the website which is the footer and click the whatsapp icon to contact me.
 
